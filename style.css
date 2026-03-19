@@ -620,12 +620,19 @@ body.search-active mark {
     align-items: center;
   }
 
+  .hero .container {
+    width: 100%;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+  }
+
   .hero-logo-left {
     grid-area: logo-left;
     justify-self: start;
     align-self: center;
     max-height: 110px;
     margin-top: 0;
+	margin-left: 0;
   }
 
   .hero-logo-right {

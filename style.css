@@ -607,10 +607,6 @@ body.search-active mark {
     width: min(var(--content-width), calc(100% - 1.25rem));
   }
 
-  .hero-logo-left {
-    transform: translateX(-1.25rem);
-  }
-
   .hero-grid,
   .hero-grid-compact {
     grid-template-columns: 1fr 1fr;
@@ -627,6 +623,7 @@ body.search-active mark {
     justify-self: start;
     align-self: center;
     max-height: 110px;
+    transform: translateX(-1.25rem);
     margin-top: 0;
     margin-left: 0;
   }

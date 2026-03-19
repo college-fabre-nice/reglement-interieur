@@ -469,8 +469,7 @@ function setupSpy() {
     if (!link || activeId === id) return;
     activeId = id;
     tocLinks.forEach((item) => item.classList.remove("is-current"));
-    link.classList.add("is-current");
-    link.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    link.classList.add("is-current");    
   };
 
   setActiveTocLink = setActive;

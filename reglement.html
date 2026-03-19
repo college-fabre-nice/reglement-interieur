@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Règlement intérieur — Collège Jean-Henri Fabre</title>
+    <meta
+      name="description"
+      content="Version intégrale du règlement intérieur du collège Jean-Henri Fabre."
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body class="page-reglement">
+    <div id="top"></div>
+    <header class="hero">
+      <div class="container hero-grid">
+        <img
+          class="hero-logo hero-logo-left"
+          src="img/logo-academie.png"
+          alt="Logo de l'Académie de Nice"
+        />
+
+        <div class="hero-content">
+          <p class="eyebrow">Collège Jean-Henri Fabre</p>
+          <h1>Règlement intérieur</h1>
+          <p class="hero-text text-left">
+            Consultation en ligne du règlement intérieur du collège.
+          </p>
+
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="index.html">Retour à l'accueil</a>
+            <a class="btn btn-secondary" href="docs/reglement-interieur.pdf"
+              >Télécharger le PDF</a
+            >
+          </div>
+        </div>
+
+        <img
+          class="hero-logo hero-logo-right"
+          src="img/logo-fabre.png"
+          alt="Logo du collège Jean-Henri Fabre"
+        />
+      </div>
+    </header>
+
+    <main class="layout container">
+      <aside class="sidebar">
+        <nav class="toc" aria-label="Sommaire du règlement intérieur">
+          <div class="toc-header">
+            <h2>Sommaire</h2>
+            <button
+              type="button"
+              class="btn btn-ghost btn-small"
+              id="toc-toggle"
+              aria-expanded="true"
+            >
+              Masquer
+            </button>
+          </div>
+          <ul id="toc-list" class="text-left"></ul>
+        </nav>
+      </aside>
+
+      <section class="content">
+        <div class="tools-bar">
+          <label for="search-input" class="visually-hidden"
+            >Rechercher dans le règlement</label
+          >
+          <div class="search-box">
+            <input
+              id="search-input"
+              type="search"
+              placeholder="Rechercher un mot-clé dans le règlement"
+              autocomplete="off"
+            />
+            <button
+              type="button"
+              class="search-clear"
+              id="search-clear"
+              aria-label="Vider la recherche"
+              title="Vider la recherche"
+            >
+              ×
+            </button>
+          </div>
+          <div
+            class="search-nav"
+            aria-label="Navigation entre les résultats de recherche"
+          >
+            <button
+              type="button"
+              class="btn btn-ghost btn-small"
+              id="search-prev"
+            >
+              Résultat précédent
+            </button>
+            <button
+              type="button"
+              class="btn btn-ghost btn-small"
+              id="search-next"
+            >
+              Résultat suivant
+            </button>
+            <span class="search-counter" id="search-counter" aria-live="polite"
+              >0 / 0</span
+            >
+          </div>
+          <button
+            type="button"
+            class="btn btn-secondary btn-small"
+            id="expand-all"
+          >
+            Tout déplier
+          </button>
+          <button
+            type="button"
+            class="btn btn-secondary btn-small"
+            id="collapse-all"
+          >
+            Tout replier
+          </button>
+        </div>
+
+        <div class="status-banner text-left" id="status-banner" hidden></div>
+        <div id="reglement-root" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

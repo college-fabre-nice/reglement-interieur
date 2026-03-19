@@ -609,21 +609,19 @@ body.search-active mark {
 }
 
 @media (max-width: 980px) {
+  .hero .container {
+    width: min(var(--content-width), calc(100% - 1rem));
+  }
+
   .hero-grid,
   .hero-grid-compact {
     grid-template-columns: 1fr 1fr;
     grid-template-areas:
       "logo-left logo-right"
       "content content";
-    gap: 1.5rem 1rem;
+    gap: 1.5rem 0.75rem;
     text-align: center;
     align-items: center;
-  }
-
-  .hero .container {
-    width: 100%;
-    padding-left: 0.6rem;
-    padding-right: 0.6rem;
   }
 
   .hero-logo-left {
@@ -632,7 +630,7 @@ body.search-active mark {
     align-self: center;
     max-height: 110px;
     margin-top: 0;
-	margin-left: 0;
+    margin-left: 0;
   }
 
   .hero-logo-right {
@@ -641,21 +639,13 @@ body.search-active mark {
     align-self: center;
     max-height: 110px;
     margin-top: 0;
+    margin-right: 0;
   }
 
   .hero-content {
     grid-area: content;
-    order: initial;
     max-width: none;
     padding-top: 0;
-  }
-  
-  .hero-logo-left {
-    order: 1;
-  }
-  
-  .hero-logo-right {
-    order: 3;
   }
 
   .hero-actions {
@@ -665,6 +655,7 @@ body.search-active mark {
   .layout {
     grid-template-columns: 1fr;
   }
+
   .sidebar {
     position: static;
   }
@@ -673,7 +664,7 @@ body.search-active mark {
   .cards-grid-large {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
-  
+
   .eyebrow,
   .hero-text {
     text-align: center !important;

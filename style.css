@@ -610,7 +610,11 @@ body.search-active mark {
 
 @media (max-width: 980px) {
   .hero .container {
-    width: min(var(--content-width), calc(100% - 1rem));
+    width: min(var(--content-width), calc(100% - 1.25rem));
+  }
+
+  .hero-logo-left {
+    transform: translateX(-1.25rem);
   }
 
   .hero-grid,

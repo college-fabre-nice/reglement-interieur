@@ -10,6 +10,30 @@
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Le service public de l’éducation repose sur des principes et des valeurs :"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Les principes de gratuité de l’enseignement, d’égalité, de fraternité, de neutralité et de laïcité ;",
+            "Les valeurs de tolérance, d’équité, de solidarité et de respect des différences, du respect d’autrui dans sa personne et ses convictions ;",
+            "Les valeurs d’égalité des chances et de traitement entre filles et garçons."
+          ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Au collège Jean-Henri Fabre, chacun des membres de la communauté scolaire se doit de respecter ces principes et valeurs."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le collège s’inscrit pleinement dans le cadre de l’école inclusive."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le collège s’inscrit dans une démarche éco-responsable de développement durable."
+        },
+        {
+          "type": "paragraph",
           "text": "Conformément au Code de l'Éducation, le collège participe à la mission de service public d’instruction, d’éducation et de formation. Il repose sur la coopération entre les membres de la communauté éducative, le respect mutuel et les valeurs de la République : liberté, égalité, fraternité et laïcité. Le règlement intérieur précise les droits et devoirs de chacun afin de garantir un cadre sécurisé et favorable aux apprentissages."
         },
         {
@@ -38,7 +62,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Vu la délibération du Conseil d'administration du collège Jean-Henri Fabre en date du 10 février 2026."
+          "text": "Vu la circulaire n° 2014-059 du 27 mai 2014 relative à l’application de la règle, aux mesures de prévention et sanctions ;"
         },
         {
           "type": "paragraph",
@@ -46,7 +70,11 @@
         },
         {
           "type": "paragraph",
-          "text": "Vu la circulaire n° MENE2519904C du 10 juillet 2025 relative à la promotion du numérique raisonné à l’école ;"
+          "text": "Vu la circulaire n° MENE2519904C du 10 juillet 2025 relative à la promotion du numérique raisonné à l’école ;"
+        },
+        {
+          "type": "paragraph",
+          "text": "Vu la délibération du Conseil d'administration du collège Jean-Henri Fabre en date du 23 mars 2026."
         }
       ]
     },
@@ -63,10 +91,18 @@
           "type": "list",
           "items": [
             "Être instruits et accompagnés dans leur orientation, avec accès aux ressources pédagogiques et à l'information sur les parcours possibles.",
-            "Être protégés contre toute forme de violence physique ou psychologique, de discrimination ou de harcèlement.",
-            "Exprimer leurs opinions librement dans le respect des personnes et du cadre scolaire, notamment par la participation aux conseils d’élèves.",
+            "Être protégés contre toute forme de violence physique ou psychologique, de discrimination ou de harcèlement. Les élèves ont le droit d’être respectés moralement et physiquement, de travailler en sécurité et dans un climat scolaire serein.",
+            "Exprimer leurs opinions librement dans le respect des personnes et du cadre scolaire, notamment par la participation aux conseils d’élèves. Les élèves disposent du droit d’expression individuelle et collective par l’intermédiaire de leurs délégués, du droit de réunion et du droit d’affichage, après autorisation accordée par le chef d’établissement. Tout affichage doit être communiqué au préalable au chef d’établissement qui apposera son visa. L’affichage ne peut être anonyme.",
             "Être représentés au sein de certaines instances du collège (délégués de classe, conseil de vie collégienne, conseils d'administration). Le Conseil de Vie Collégienne permet aux élèves de proposer des projets, de s'exprimer sur la vie de l’établissement, et d’y participer activement en lien avec les équipes éducatives et la direction."
           ]
+        },
+        {
+          "type": "paragraph",
+          "text": "Ces droits s’exercent dans le respect du pluralisme, des principes de neutralité et du respect d’autrui. Tout propos diffamatoire ou injurieux peut avoir des conséquences graves."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’exercice de ces droits ne doit pas porter atteinte aux activités d’enseignement, au contenu des programmes et à l’obligation d’assiduité."
         },
         {
           "type": "paragraph",
@@ -126,11 +162,15 @@
             },
             {
               "type": "paragraph",
-              "text": "L’article D111-3 du Code de l’éducation précise que « les parents sont tenus régulièrement informés de l’évolution des acquis scolaires de leurs enfants (…) par l’intermédiaire du livret scolaire au collège. L’établissement scolaire prend toute mesure adaptée pour que les parents ou les responsables légaux de l’élève prennent connaissance de ces documents »."
+              "text": "L’article D111-3 du Code de l’éducation précise que « les parents sont tenus régulièrement informés de l’évolution des acquis scolaires de leurs enfants (…) par l’intermédiaire du livret scolaire au collège. L’établissement scolaire prend toute mesure adaptée pour que les parents ou les responsables légaux de l’élève prennent connaissance de ces documents ». Par conséquent, pour les familles ne disposant pas d'un accès à Internet, les informations seront transmises par le biais du carnet de correspondance ou par format papier."
             },
             {
               "type": "paragraph",
               "text": "Dans le cadre de la pause numérique, les mises à jour dans les espaces numériques de travail et les logiciels de vie scolaire sont suspendues le soir et en fin de semaine."
+            },
+            {
+              "type": "paragraph",
+              "text": "Les codes seront fournis aux familles en début d’année."
             },
             {
               "type": "paragraph",
@@ -166,13 +206,13 @@
             },
             {
               "type": "paragraph",
-              "text": "Pour solliciter un entretien, les parents sont reçus uniquement sur rendez-vous :"
+              "text": "Pour solliciter un entretien, les parents sont reçus uniquement sur rendez-vous :"
             },
             {
               "type": "list",
               "items": [
                 "avec un professeur : effectuer une demande par l’ENT ou via le carnet de correspondance.",
-                "avec l’assistante sociale, l’infirmière ou la psychologue de l’Éducation nationale : adresser un message via l’ENT ou prendre rendez-vous par téléphone.",
+                "avec l’assistant social, l’infirmier ou le psychologue de l’Éducation nationale : adresser un message via l’ENT ou prendre rendez-vous par téléphone.",
                 "avec la direction : écrire à ce.0060841g@ac-nice.fr (en précisant l’objet du rendez-vous) ou téléphoner au secrétariat du collège Jean-Henri Fabre au 04 92 07 84 20.",
                 "avec les CPE (Conseiller Principal d’Education) : contacter la vie scolaire par téléphone au 04 92 07 84 30 ou par courriel à vie-scolaire1.0060841g@ac-nice.fr."
               ]
@@ -189,7 +229,7 @@
             },
             {
               "type": "paragraph",
-              "text": "En espèces : se présenter à l’accueil du collège, qui vous conduira au bureau du service de gestion (sans rendez-vous nécessaire). Attention : fermeture du service le vendredi."
+              "text": "En espèces : se présenter à l’accueil du collège, qui vous conduira au bureau du service de gestion (sans rendez-vous nécessaire)."
             }
           ]
         },
@@ -203,7 +243,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Des distinctions peuvent être attribuées à certains élèves, sous forme de félicitations, de compliments ou d’encouragements, en fonction de leur implication, de leurs progrès ou de leurs résultats. En fin d’année, des prix peuvent également être remis à des élèves s’étant particulièrement distingués.  Ces reconnaissances visent à valoriser les efforts fournis, à renforcer l’estime de soi et à favoriser le sentiment d’appartenance à la communauté scolaire."
+              "text": "Des distinctions peuvent être attribuées à certains élèves, sous forme de félicitations, de compliments ou d’encouragements, en fonction de leur implication, de leurs progrès ou de leurs résultats. En fin d’année, des prix peuvent également être remis à des élèves s’étant particulièrement distingués. Ces reconnaissances visent à valoriser les efforts fournis, à renforcer l’estime de soi et à favoriser le sentiment d’appartenance à la communauté scolaire."
             }
           ]
         },
@@ -274,11 +314,11 @@
             },
             {
               "type": "paragraph",
-              "text": "Une pochette « anti-ondes » sera attribuée gratuitement à chaque élève en début d’année. Celle-ci servira de rangement pour le téléphone portable."
+              "text": "Une pochette « anti-ondes » sera attribuée gratuitement à chaque élève en début d’année. Celle-ci servira de rangement pour le téléphone portable."
             },
             {
               "type": "paragraph",
-              "text": "Le rangement du mobile dans la pochette « anti-ondes » ainsi que le verrouillage de celle-ci est vérifié à l’entrée de l’établissement par les équipes de la vie scolaire."
+              "text": "Le rangement du mobile dans la pochette « anti-ondes » ainsi que le verrouillage de celle-ci est vérifié à l’entrée de l’établissement par les équipes de la vie scolaire."
             },
             {
               "type": "paragraph",
@@ -290,7 +330,7 @@
             },
             {
               "type": "paragraph",
-              "text": "La dégradation ou la perte de la sacoche « anti-ondes » pourra faire l’objet d’une demande de remboursement calculée au prix de remplacement en vigueur au moment de la perte ou de la dégradation."
+              "text": "La dégradation ou la perte de la sacoche « anti-ondes » pourra faire l’objet d’une demande de remboursement calculée au prix de remplacement en vigueur au moment de la perte ou de la dégradation."
             },
             {
               "type": "paragraph",
@@ -311,7 +351,7 @@
             },
             {
               "type": "paragraph",
-              "text": "À titre exceptionnel et dérogatoire, l’usage du téléphone par les élèves peut être autorisé dans les cas suivants :"
+              "text": "À titre exceptionnel et dérogatoire, l’usage du téléphone par les élèves pourra être autorisé dans les cas suivants :"
             },
             {
               "type": "list",
@@ -340,7 +380,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Suite à la publication du Décret 2023-782 du 16 août 2023 relatif au respect des principes de la République et à la protection des élèves dans les établissements scolaires relevant du ministre chargé de l'éducation nationale modifiant l’article R421-10 paragraphe 5 du code de l’éducation, les cas pour lesquels l’engagement d’une procédure disciplinaire est automatique :"
+              "text": "Suite à la publication du Décret 2023-782 du 16 août 2023 relatif au respect des principes de la République et à la protection des élèves dans les établissements scolaires relevant du ministre chargé de l'éducation nationale modifiant l’article R421-10 paragraphe 5 du code de l’éducation, les cas pour lesquels l’engagement d’une procédure disciplinaire est automatique :"
             },
             {
               "type": "list",
@@ -361,7 +401,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Suite au décret n° 2025-609 du 1er juillet 2025 modifiant le régime disciplinaire dans les établissements publics locaux d'enseignement, la possession ou l'introduction d'une arme blanche dans l'établissement entraîne systématiquement la saisine du conseil de discipline par le chef d'établissement et un signalement au procureur de la République."
+              "text": "Suite au décret n° 2025-609 du 1er juillet 2025 modifiant le régime disciplinaire dans les établissements publics locaux d'enseignement, la possession ou l'introduction d'une arme dans l'établissement entraîne systématiquement la saisine du conseil de discipline par le chef d'établissement et un signalement au procureur de la République."
             }
           ]
         },
@@ -414,7 +454,7 @@
             },
             {
               "type": "paragraph",
-              "text": "L’établissement scolaire est un espace de neutralité. Aucun signe, emblème, inscription ou comportement à caractère religieux, politique ou idéologique ne doit y être exhibé. Cette exigence s’applique également aux objets personnels visibles dans l’enceinte du collège (cartables, trousses, vêtements, autocollants, cahiers, carnet de correspondance etc.)."
+              "text": "L’établissement scolaire est un espace de neutralité. Aucun signe, emblème, inscription ou comportement à caractère religieux, politique, commerciale ou idéologique ne doit y être exhibé. Cette exigence s’applique également aux objets personnels visibles dans l’enceinte du collège (cartables, trousses, vêtements, autocollants, cahiers, carnet de correspondance etc.)."
             },
             {
               "type": "paragraph",
@@ -518,7 +558,7 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "L’élève se range avec sa classe dès la première sonnerie dans la cour, à l’emplacement correspondant à la salle où il a cours, et attend calmement l’enseignant. Les enseignants sont responsables des élèves durant leur heure de cours."
+              "text": "L’élève se range avec sa classe dès la première sonnerie dans la cour, à l’emplacement correspondant à la salle où il a cours, et attend calmement l’enseignant. Les enseignants sont responsables des élèves durant leur heure de cours mais doivent également assurer une présence devant leur salle de classe durant les intercours."
             },
             {
               "type": "paragraph",
@@ -563,7 +603,7 @@
             },
             {
               "type": "paragraph",
-              "text": "L'obligation d'assiduité (Cf. art. R 511-11 du Code de l’éducation) consiste, pour les élèves :"
+              "text": "L'obligation d'assiduité (Cf. art. R 511-11 du Code de l’éducation) consiste, pour les élèves :"
             },
             {
               "type": "list",
@@ -629,7 +669,7 @@
                 [
                   "",
                   "11h00",
-                  "11h00 // 11h05"
+                  "11h00 // 11h05"
                 ],
                 [
                   "11h05",
@@ -639,7 +679,7 @@
                 [
                   "",
                   "12h00",
-                  "12h00 // 12h10"
+                  "12h00 // 12h10"
                 ],
                 [
                   "",
@@ -669,7 +709,7 @@
                 [
                   "Récréation",
                   "",
-                  "15h20 // 15h35"
+                  "15h20 // 15h35"
                 ],
                 [
                   "15h40",
@@ -679,7 +719,7 @@
                 [
                   "",
                   "16h35",
-                  "16h35 // 16h40"
+                  "16h35 // 16h40"
                 ],
                 [
                   "16h35",
@@ -856,7 +896,7 @@
               "type": "list",
               "items": [
                 "Réprimande ou excuse orale/écrite ;",
-                "Rapport saisi dans Pronote ou sur le carnet de correspondance ;",
+                "Rapport saisi dans Pronote ou sur le carnet de correspondance ;",
                 "Devoir supplémentaire éventuellement assorti d’une retenue ;",
                 "Retenue pour travail non fait ou comportement inadapté (notifiée aux responsables) ;",
                 "Exclusion ponctuelle de la classe pour la durée restante de la séance dans des cas exceptionnelle (l’élève est alors confié à la vie scolaire) ;",
@@ -935,7 +975,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Suite à la publication du Décret 2023-782 du 16 août 2023 relatif au respect des principes de la République et à la protection des élèves dans les établissements scolaires relevant du ministre chargé de l'éducation nationale modifiant l’article R421-10 paragraphe 5 du code de l’éducation, les cas pour lesquels l’engagement d’une procédure disciplinaire est automatique :"
+              "text": "Suite à la publication du Décret 2023-782 du 16 août 2023 relatif au respect des principes de la République et à la protection des élèves dans les établissements scolaires relevant du ministre chargé de l'éducation nationale modifiant l’article R421-10 paragraphe 5 du code de l’éducation, les cas pour lesquels l’engagement d’une procédure disciplinaire est automatique :"
             },
             {
               "type": "list",
@@ -948,7 +988,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Lorsqu'un membre du personnel de l'établissement a été victime de violence physique, le chef d'établissement est tenu de saisir le conseil de discipline. La saisie du conseil de discipline s'impose désormais également au chef d'établissement lorsqu'un élève se trouve en possession d'une arme blanche ou introduit une arme blanche dans l'établissement. Ces faits donnent lieu à un signalement au procureur de la République."
+              "text": "Lorsqu'un membre du personnel de l'établissement a été victime de violence physique, le chef d'établissement est tenu de saisir le conseil de discipline. La saisie du conseil de discipline s'impose désormais également au chef d'établissement lorsqu'un élève se trouve en possession d'une arme blanche ou introduit une arme dans l'établissement. Ces faits donnent lieu à un signalement au procureur de la République."
             }
           ]
         },
@@ -965,11 +1005,12 @@
               "text": "Concernant les élèves, la mesure conservatoire peut être prise :"
             },
             {
-              "type": "list",
-              "items": [
-                "pour une durée fixée par le Chef d’établissement et d’une durée minimale de 2 jours ouvrables correspondant au délai accordé à l’élève pour présenter sa défense dans le cadre du principe du contradictoire, lorsque le chef d'établissement se prononce seul sur les faits qui ont justifié l'engagement d'une procédure disciplinaire,",
-                "dans l’attente de la réunion d’un Conseil de discipline."
-              ]
+              "type": "paragraph",
+              "text": "pour une durée fixée par le Chef d’établissement et d’une durée minimale de 2 jours ouvrables correspondant au délai accordé à l’élève pour présenter sa défense dans le cadre du principe du contradictoire, lorsque le chef d'établissement se prononce seul sur les faits qui ont justifié l'engagement d'une procédure disciplinaire,"
+            },
+            {
+              "type": "paragraph",
+              "text": "dans l’attente de la réunion d’un Conseil de discipline."
             },
             {
               "type": "paragraph",
@@ -983,6 +1024,21 @@
           "blocks": [
             {
               "type": "paragraph",
+              "text": "La mesure de responsabilisation concerne, soit :"
+            },
+            {
+              "type": "list",
+              "items": [
+                "Une sanction disciplinaire exécutée dans l'enceinte de l'établissement ou non, en dehors des heures d'enseignement et qui ne peut excéder vingt heures (Cf. article R 511-13 du Code de l’éducation, § 1. 4°, Liste des sanctions disciplinaires applicables dans les collèges et lycées relevant du ministre chargé de l'éducation) ;",
+                "Une alternative à la sanction qui peut être prononcée à ce titre pour un élève qui fait l’objet d’une exclusion temporaire de la classe ou bien d’une exclusion temporaire de l’établissement ou de l’un de ses services annexes (Cf. circulaire n° 2014-059 du 27/05/2014, Titre 1-§ A-3°)."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "L'élève et son représentant légal, s'il est mineur, sont avertis que le refus d'accomplir la mesure proposée a pour effet de rendre exécutoire la sanction initialement prononcée et son inscription dans le dossier administratif de l'élève. Le renoncement à la mesure alternative par l'élève au cours de son exécution a les mêmes conséquences."
+            },
+            {
+              "type": "paragraph",
               "text": "Cette mesure vise à permettre à l’élève de réfléchir à ses actes et de participer à des actions valorisantes, en lien avec la réparation ou la solidarité. Elle contribue à renforcer son sens des responsabilités et à favoriser son engagement dans une démarche constructive."
             },
             {
@@ -992,10 +1048,10 @@
             {
               "type": "list",
               "items": [
-                "d’une activité de réparation (notamment en cas de dégradations volontaires) ;",
-                "d’activités de solidarité ;",
-                "d’activités culturelles ou de formation, dans ou en dehors de l’établissement ;",
-                "Lorsqu’elle est réalisée en dehors de l’établissement, la mise en place de cette mesure fait l’objet d’une convention signée entre le chef d’établissement, la structure d’accueil et les représentants légaux ;",
+                "d’une activité de réparation (notamment en cas de dégradations volontaires) ;",
+                "d’activités de solidarité ;",
+                "d’activités culturelles ou de formation, dans ou en dehors de l’établissement ;",
+                "Lorsqu’elle est réalisée en dehors de l’établissement, la mise en place de cette mesure fait l’objet d’une convention signée entre le chef d’établissement, la structure d’accueil et les représentants légaux ;",
                 "Si elle est réalisée au sein de l’établissement, l’élève est pris en charge par un adulte référent ou un service identifié de l’établissement."
               ]
             },
@@ -1007,14 +1063,10 @@
               "type": "list",
               "items": [
                 "Dans le cas où elle se déroule au sein de l'établissement, l'élève est pris en charge par un adulte référent ou un service identifié de l'établissement.",
-                {
-                  "text": "Dans le cas où elle se déroule à l'extérieur de l'établissement, il convient de prévoir :",
-                  "children": [
-                    "Une convention de partenariat entre l'établissement et la structure d'accueil dont un exemplaire est remis à l'élève ou, lorsqu'il est mineur, à son représentant légal ;",
-                    "Un accord de l'élève, ou, lorsqu'il est mineur, celui de son représentant légal ;",
-                    "Un document individuel précisant les modalités d'organisation de la mesure, signé par le chef d'établissement, le représentant de la structure d'accueil et par l'élève, ou lorsqu'il est mineur, par son représentant légal."
-                  ]
-                }
+                "Dans le cas où elle se déroule à l'extérieur de l'établissement, il convient de prévoir :",
+                "Une convention de partenariat entre l'établissement et la structure d'accueil dont un exemplaire est remis à l'élève ou, lorsqu'il est mineur, à son représentant légal ;",
+                "Un accord de l'élève, ou, lorsqu'il est mineur, celui de son représentant légal ;",
+                "Un document individuel précisant les modalités d'organisation de la mesure, signé par le chef d'établissement, le représentant de la structure d'accueil et par l'élève, ou lorsqu'il est mineur, par son représentant légal."
               ]
             }
           ]
@@ -1037,7 +1089,7 @@
             },
             {
               "type": "paragraph",
-              "text": "La commission est composée de plusieurs personnels de l'établissement : professeurs de l’élève, assistante sociale, psychologue scolaire, principale, principale adjointe, CPE ou autres membres selon la situation."
+              "text": "La commission est composée de plusieurs personnels de l'établissement : professeurs de l’élève, assistant social, psychologue scolaire, principal, principal adjoint, CPE ou autres membres selon la situation."
             },
             {
               "type": "paragraph",
@@ -1045,41 +1097,11 @@
             },
             {
               "type": "paragraph",
-              "text": "Présents à la réunion, l'élève et ses représentants légaux peuvent exprimer leur analyse de la situation. Le chef d’établissement préside la commission ou désigne un représentant. Il peut inviter toute personne jugée utile à l’examen du dossier (infirmière, personnel extérieur, etc.)."
+              "text": "Présents à la réunion, l'élève et ses représentants légaux peuvent exprimer leur analyse de la situation. Le chef d’établissement préside la commission ou désigne un représentant. Il peut inviter toute personne jugée utile à l’examen du dossier (infirmier, personnel extérieur, etc.)."
             },
             {
               "type": "paragraph",
               "text": "La commission peut proposer une sanction au chef d’établissement mais vise d’abord à amener l’élève à s’interroger sur ses actes et à rechercher des solutions éducatives. La commission éducative assure le suivi de l'application des mesures de prévention et d'accompagnement, des mesures de responsabilisation ainsi que des mesures alternatives aux sanctions."
-            },
-            {
-              "type": "paragraph",
-              "text": "Enfin, chacun de ses membres est soumis à l'obligation du secret en ce qui concerne tous les faits et documents dont ils ont connaissance au cours de la réunion de la Commission pluridisciplinaire."
-            }
-          ]
-        },
-        {
-          "id": "partie-6-commission-pluridisciplinaire-interne-a-l-etablissement",
-          "title": "Commission pluridisciplinaire interne à l’établissement",
-          "blocks": [
-            {
-              "type": "paragraph",
-              "text": "La commission pluridisciplinaire est composée de plusieurs personnels de l'établissement : professeurs de l’élève, assistant sociale, psychologue scolaire, principal, principal adjoint, CPE ou autres membres selon la situation."
-            },
-            {
-              "type": "paragraph",
-              "text": "L'objectif est de croiser les regards professionnels afin d’examiner la situation d’un élève dont le comportement est inadapté aux règles de vie dans l’établissement et de rechercher une réponse éducative adaptée."
-            },
-            {
-              "type": "paragraph",
-              "text": "Présents à la réunion, l'élève et ses représentants légaux peuvent exprimer leur analyse de la situation. Le chef d’établissement préside la commission ou désigne un représentant. Il peut inviter toute personne jugée utile à l’examen du dossier (infirmière, personnel extérieur, etc.)."
-            },
-            {
-              "type": "paragraph",
-              "text": "La commission peut proposer une sanction au chef d’établissement mais vise d’abord à amener l’élève à s’interroger sur ses actes et à rechercher des solutions éducatives."
-            },
-            {
-              "type": "paragraph",
-              "text": "Enfin, chacun de ses membres est soumis à l'obligation du secret en ce qui concerne tous les faits et documents dont ils ont connaissance au cours de la réunion de la Commission pluridisciplinaire."
             }
           ]
         }
@@ -1096,7 +1118,7 @@
         },
         {
           "type": "paragraph",
-          "text": "Chaque élève doit effectuer avec soin le travail demandé par ses professeurs, en classe et à la maison.  Des espaces (CDI, salles informatiques, accompagnement) peuvent être mobilisés pour aider les élèves en difficulté à faire leur travail."
+          "text": "Chaque élève doit effectuer avec soin le travail demandé par ses professeurs, en classe et à la maison. Des espaces (CDI, salles informatiques, accompagnement) peuvent être mobilisés pour aider les élèves en difficulté à faire leur travail."
         },
         {
           "type": "paragraph",
@@ -1139,7 +1161,7 @@
             },
             {
               "type": "paragraph",
-              "text": "Conformément à la circulaire du 16 juillet 2024 relative à l’organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics, publiée au Bulletin Officiel n° 30 du 25 juillet 2024, pour les activités obligatoires (sur le temps scolaire), la souscription par les familles d'une assurance « responsabilité civile/individuelle - accidents corporels » n'est pas une obligation mais elle est toutefois conseillée. En revanche, pour toute participation à des activités facultatives et/ou hors-temps scolaire, la souscription d'une telle assurance est obligatoire."
+              "text": "Conformément à la circulaire du 16 juillet 2024 relative à l’organisation des sorties et voyages scolaires dans les écoles, les collèges et les lycées publics, publiée au Bulletin Officiel n° 30 du 25 juillet 2024, pour les activités obligatoires (sur le temps scolaire), la souscription par les familles d'une assurance « responsabilité civile/individuelle - accidents corporels » n'est pas une obligation mais elle est toutefois conseillée. En revanche, pour toute participation à des activités facultatives et/ou hors-temps scolaire, la souscription d'une telle assurance est obligatoire."
             },
             {
               "type": "paragraph",
@@ -1166,11 +1188,15 @@
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Le service de restauration est ouvert de 11 h 30 à 13 h 25, les lundis, mardis, jeudis et vendredis."
+              "text": "Le service de restauration est ouvert de 11h30 à 13h25, les lundis, mardis, jeudis et vendredis."
             },
             {
               "type": "paragraph",
               "text": "La carte de demi-pension (ou badge électronique) est remise gratuitement aux élèves à leur entrée au collège. L’élève est tenu d’avoir sa carte de demi-pension avec lui chaque jour et de la présenter à l’entrée du réfectoire. L’accès se fait uniquement après validation de la carte sur la borne. En cas d’oubli, l’élève doit se signaler à l’entrée auprès des surveillants."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dans le cas d’un après-midi libre, l’élève demi-pensionnaire ne peut sortir qu’après le repas à 13h30. Dans le cas d’un après-midi libre, un élève demi-pensionnaire pourra sortir à 12h30 si et seulement si le (les) responsable (s) légal (aux) en font la demande. Cette demande devra être remise avant au service de vie scolaire. Cette demande ne peut déboucher sur une remise d’ordre comme indiqué dans le règlement départemental de la restauration scolaire des collèges publics."
             }
           ]
         },
@@ -1271,12 +1297,12 @@
             {
               "type": "list",
               "items": [
-                "Fermeture du service de restauration, de la classe ou du collège pour raison majeure ;",
-                "Participation à une sortie pédagogique ou un voyage scolaire, lors l'établissement ne prend pas en charge la restauration ou l'hébergement ;",
-                "Stage d’observation en milieu professionnel prévu dans le cadre scolaire ;",
-                "Exclusion temporaire ou définitive de la demi-pension prononcée par la direction ;",
-                "Départ définitif de l’élève après règlement de toute créance ;",
-                "Impossibilité d’accès liée à un protocole sanitaire ;",
+                "Fermeture du service de restauration, de la classe ou du collège pour raison majeure ;",
+                "Participation à une sortie pédagogique ou un voyage scolaire, lors l'établissement ne prend pas en charge la restauration ou l'hébergement ;",
+                "Stage d’observation en milieu professionnel prévu dans le cadre scolaire ;",
+                "Exclusion temporaire ou définitive de la demi-pension prononcée par la direction ;",
+                "Départ définitif de l’élève après règlement de toute créance ;",
+                "Impossibilité d’accès liée à un protocole sanitaire ;",
                 "Décès d’un élève."
               ]
             }
@@ -1334,10 +1360,14 @@
               "items": [
                 "Se laver les mains avant d’entrer (lavabo ou gel hydroalcoolique).",
                 "Rester calme et respecter le personnel ainsi que les autres convives.",
+                "Composer son plateau en une seule fois : l’élève qui n’a pas pris tout ce à quoi il a droit ne peut pas venir le réclamer après son passage.",
                 "Ne pas gaspiller, ne pas jouer et ne pas circuler de table en table.",
                 "Laisser la table et l’espace propres après le repas.",
+                "Interdiction de crier, de courir, de se battre et circuler sans raison dans le restaurant scolaire.",
                 "La nourriture extérieure est interdite, sauf en cas de PAI signé par le médecin scolaire.",
-                "Il est également interdit de sortir de la salle de demi-pension avec de la nourriture (pain, fruits, etc.)."
+                "Il est également interdit de sortir de la salle de demi-pension avec de la nourriture (pain, fruits, etc.).",
+                "Un élève qui fait tomber son plateau doit en ramasser l’ensemble du contenu. Un élève qui salit une table ou le sol par jeu ou par agitation peut faire l’objet d’une mesure de responsabilisation.",
+                "Respect des procédures de tri défini par affichage."
               ]
             },
             {
@@ -1346,7 +1376,7 @@
             },
             {
               "type": "paragraph",
-              "text": "L’oubli régulier du badge de demi-pension peut également faire l’objet d’une punition ou d’une sanction."
+              "text": "L’oubli régulier du badge de demi-pension peut également faire l’objet d’une punition ou d’une sanction. Un seul repas par carte est possible quotidiennement. Il est formellement interdit de prêter sa carte à un autre élève, sous peine de punition, à la fois de l’élève utilisateur et de l’élève titulaire de la carte."
             }
           ]
         }
@@ -1383,7 +1413,7 @@
         },
         {
           "type": "paragraph",
-          "text": "La prise de médicaments dans l’établissement n’est autorisée que dans un cadre strictement réglementé : uniquement sur demande expresse des responsables légaux et sur présentation d’une ordonnance médicale. Aucun médicament ne doit être conservé ou consommé librement par un élève, sauf autorisation spécifique validée par l’infirmière."
+          "text": "La prise de médicaments dans l’établissement n’est autorisée que dans un cadre strictement réglementé : uniquement sur demande expresse des responsables légaux et sur présentation d’une ordonnance médicale. Aucun médicament ne doit être conservé ou consommé librement par un élève, sauf autorisation spécifique validée par l’infirmier."
         },
         {
           "type": "paragraph",
@@ -1425,12 +1455,12 @@
           ]
         },
         {
-          "id": "partie-11-association-sportive-unss",
-          "title": "Association Sportive (UNSS)",
+          "id": "partie-11-association-sportive-affiliee-a-l-union-nationale-du-sport-scolaire-unss",
+          "title": "Association Sportive affiliée à l’Union nationale du sport scolaire (UNSS)",
           "blocks": [
             {
               "type": "paragraph",
-              "text": "Les enseignants d’EPS proposent des activités sportives pendant la pause méridienne et le mercredi après-midi dans le cadre de l’Association Sportive du collège. L’inscription, volontaire, se fait en début d’année avec autorisation parentale et paiement d’une cotisation annuelle. Les élèves inscrits s’engagent à une participation régulière. Le règlement intérieur s’applique pleinement lors des entraînements, compétitions et déplacements organisés."
+              "text": "L’association sportive est une association loi 1901 qui soutient la vie de l’établissement en organisant ou en finançant des projets culturels, pédagogiques ou de loisirs. Les enseignants d’EPS proposent des activités sportives pendant la pause méridienne et le mercredi après-midi. L’inscription, volontaire, se fait en début d’année avec autorisation parentale et paiement d’une cotisation annuelle. Les élèves inscrits s’engagent à une participation régulière. Le règlement intérieur s’applique pleinement lors des entraînements, compétitions et déplacements organisés."
             }
           ]
         },
